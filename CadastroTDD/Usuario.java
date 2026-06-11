@@ -1,7 +1,6 @@
-/**
- * Classe que representa um usuário no sistema de cadastro.
- * Contém os atributos básicos e seus respectivos getters e setters.
- */
+
+ //Classe que representa um usuário no sistema de cadastro..
+ 
 public class Usuario {
 
     private String nome;
