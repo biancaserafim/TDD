@@ -28,7 +28,7 @@ public class UsuarioService {
             return false;
         }
 
-        // Todos os dados são válidos
+        // Todos os dados são válidoss
         return true;
     }
 }
